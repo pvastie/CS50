@@ -1,0 +1,37 @@
+html{
+    height: 100%;
+    
+}
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    align-self: center;
+}
+
+input.text{
+width: 500px;
+padding: 12px;
+border-radius: 40px;
+border: 1px solid rgba(220, 220, 220, 0.95);
+box-shadow: 1px 1px rgba(220, 220, 220, 0.95);
+}
+
+input.submit{
+    border-radius: 40px;
+    size: 14px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 300px;
+}
+
+.align{
+    margin-top: 150px;
+
+}
